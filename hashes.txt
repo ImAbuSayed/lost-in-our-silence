@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lost In Our Silence
+
+This log tracks the cryptographic history and versioning for the song **Lost In Our Silence** (lost-in-our-silence).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T18:41:55.753395 | `v1` | `25498d3e2e4d4a12ef71cb007cfbcef1c3e6b226116f05fd230843fd150f0f42` | `231d937b480d002b2e70b2e1a021ea60d8f5fff68ddc1a4d7d3fef4a190c6e61` | `2026-06-05_lost-in-our-silence-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

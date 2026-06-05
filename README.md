@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-our-silence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Lost In Our Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-our-silence/) |
+| **Get License** | [Secure Licensing Rights for Lost In Our Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-our-silence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `25498d3e2e4d4a12ef71cb007cfbcef1c3e6b226116f05fd230843fd150f0f42` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
