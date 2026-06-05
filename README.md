@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-our-silence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lost In Our Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-our-silence/) |
+| **Get License** | [Get License For Lost In Our Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-our-silence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the hardwood floor
+> I never wanted anyone more
+> Pulling you close in the dim moonlight
+> We are lost in our silence tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
